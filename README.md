@@ -97,48 +97,5 @@ Choose the disease detection model.
 Enter the required details (symptoms, parameters, or X-ray).
 
 Get instant diagnosis, precautions, medicine suggestions, and doctor location.
-## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-
-# Hi, I'm Katherine! 👋
-
-
-## 🚀 About Me
-I'm a full stack developer...
 
